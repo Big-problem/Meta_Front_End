@@ -1,0 +1,17 @@
+h1 {
+  font-weight: bold;
+}
+.photo {
+  border-width: 5px;
+  border-color: red;
+  border-style: solid;
+}
+
+.favorite {
+  justify-content: center;
+  display: grid;
+}
+
+.a-btn {
+  width: 30%;
+}
